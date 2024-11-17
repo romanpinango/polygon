@@ -1,0 +1,5 @@
+product_name,sku,product_cost,sell_price,quantity
+laptop,LP400,650,850,10
+mouse,MO245,40,60,50
+tablet,TB60,400,550,20
+earbud,EB6000,50,80,100
