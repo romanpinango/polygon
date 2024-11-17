@@ -1,0 +1,5 @@
+Francisco,Castillo,Orlando,M,32,Venezolano
+Roman,Pinango,Bogota,M,41,Venezolano
+Pepe,Sierra,Caracas,M,50,Italiano
+Maria,Hurtado,Madrid,F,35,Española
+Yuri,Rodriguez,Paris,X,28,Colombiane
